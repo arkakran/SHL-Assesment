@@ -9,3 +9,5 @@ scikit-learn>=1.2.2
 protobuf==3.20.*
 groq>=0.4.1
 huggingface_hub==0.11.1
+torch==2.0.1
+
